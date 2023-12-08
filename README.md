@@ -39,7 +39,7 @@ You have a blob container that stores images for your website. You want to reduc
 - [ ] Deleted files in the Archive tier should be deleted after 30 days
 
 #### Resources
-- [Azure Blob Storage lifecycle management documentation](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-lifecycle-management-concepts)
+- [Azure Blob Storage lifecycle management documentation](https://learn.microsoft.com/en-us/azure/storage/blobs/lifecycle-management-policy-configure?tabs=azure-portal)
 
 ## Exercise 3 - Archive non-accessed Files
 
@@ -60,7 +60,7 @@ You have a storage account with a blob container that stores images for your web
 - [ ] The files that have not been accessed in one day should be moved to the new storage account
 
 #### Resources
-- [Azure Blob Storage Lifecycle Management documentation](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-lifecycle-management-concepts)
+- [Azure Blob Storage Lifecycle Management documentation](https://learn.microsoft.com/en-us/azure/storage/blobs/lifecycle-management-policy-configure?tabs=azure-portal)
 
 
 ### Exercise 4 - Email Notification on Upload
