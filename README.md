@@ -56,8 +56,8 @@ You have a storage account with a blob container that stores images for your web
 - Verify that the rule works by checking the destination blob container
 
 #### Progress
-- [x] A lifecycle management rule should be created and applied to the original storage account
-- [x] The files that have not been accessed in one day should be moved to the new storage account
+- [ ] A lifecycle management rule should be created and applied to the original storage account
+- [ ] The files that have not been accessed in one day should be moved to the new storage account
 
 #### Resources
 - [Azure Blob Storage Lifecycle Management documentation](https://learn.microsoft.com/en-us/azure/storage/blobs/lifecycle-management-policy-configure?tabs=azure-portal)
