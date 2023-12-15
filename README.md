@@ -82,7 +82,7 @@ You want to receive an email alert whenever a new image is uploaded to your blob
 
 #### Resources
 - [Azure Logic Apps documentation](https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview)
-- [Create a logic app that sends email](https://docs.microsoft.com/en-us/azure/logic-apps/tutorial-send-email-with-attachment)
+- [Create a logic app that sends email](https://learn.microsoft.com/en-us/azure/app-service/tutorial-send-email?tabs=dotnet)
 
 ## Exercise 5 - Azure Storage encryption
 
